@@ -1,0 +1,6 @@
+{
+  "name": "Emojiyle Şarkıyı Bul",
+  "description": "Emojilerden Türkçe ve yabancı şarkıları tahmin etme oyunu. Seviyeler, jokerler, günün şarkısı ve başarılar!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
